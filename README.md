@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedayoub95
 - 👀 I'm a iOS Developer
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning Node.js
 - 📫 Reach me at ahmedayoub95@gmail.com
 
 <!---
